@@ -1,0 +1,6 @@
+cd "%programfiles%\RainMeter"
+Rainmeter !CommandMeasure ParseCurrentWeather Update ""Grey Blocks\WeatherClock""
+Rainmeter !CommandMeasure ParseWeatherForecast Update ""Grey Blocks\WeatherClock""
+:: Rainmeter !HideMeter TextStatus ""Grey Blocks\WeatherClock""
+:: Rainmeter !ShowMeter TextRefresh ""Grey Blocks\WeatherClock""
+:: Rainmeter !Redraw ""Grey Blocks\WeatherClock""
